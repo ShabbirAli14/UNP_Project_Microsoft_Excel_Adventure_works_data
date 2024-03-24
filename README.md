@@ -10,4 +10,6 @@ o	Tracked KPIs related to sales and profits, also analyzed product-level trends.
 
 o	Provided insights, analytics and evaluated performance across different regions.
 
-Drive link: https://drive.google.com/drive/folders/1-7dW6ojU2hHg6JyzRxYSHDiOKeGASvea
+Excel file link: https://docs.google.com/file/d/1HUlG_EMmhq5zMUQrh29DB-1P-C-8vsZz/edit?usp=docslist_api&filetype=msexcel
+
+PPT link: https://docs.google.com/file/d/1ujkwT2WlAko4f3lFwIH1zmvN7Ycf1LyU/edit?usp=docslist_api&filetype=mspresentation
