@@ -10,4 +10,4 @@ o	Tracked KPIs related to sales and profits, also analyzed product-level trends.
 
 o	Provided insights, analytics and evaluated performance across different regions.
 
-PDF Link: https://www.canva.com/design/DAGAWZUEV7A/lHX3p6PIaGrAOOLqNPK0xA/edit?utm_content=DAGAWZUEV7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Drive link: https://drive.google.com/drive/folders/1-7dW6ojU2hHg6JyzRxYSHDiOKeGASvea
