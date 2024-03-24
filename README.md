@@ -4,7 +4,7 @@ This project was completed as a part of my value-added course with United Networ
 
 KEY HIGHLIGHTS:
 
-o	Developed a dashboard for Adventure Works Data using Microsoft Excel.
+o	Developed a dashboard for Adventure Works Data using Microsoft Excel interface.
 
 o	Tracked KPIs related to sales and profits, also analyzed product-level trends.
 
