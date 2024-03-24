@@ -1,6 +1,6 @@
 # UNP_Project_MS_Excel_Adventure_works_data
 
-This project was completed as a part of my value-added course with United Network of Professionals (UNP).
+This project was completed as a part of my value-added course with United Network of Professionals (UNP).
 
 KEY HIGHLIGHTS:
 
